@@ -1,0 +1,8 @@
+# Essential library for SSH connections to network devices
+netmiko==4.4.0
+
+# Used for handling data structures (optional but good for future scaling)
+pandas==2.2.0
+
+# Security library required by Netmiko for encryption
+paramiko==3.4.0
